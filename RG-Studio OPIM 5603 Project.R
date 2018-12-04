@@ -4,7 +4,7 @@
 #Outcome is likelihood of having Type II diabetes
 library(MASS)
 #Import file diabetes dataset that is pre-processed and missing values addressed using KNN clustering 
-DiabetesP <- read_csv("C:/Users/preet/Desktop/OPIM 5603 Statistics in BA and Project/RG-Studio Group Project/DiabetesP.csv")
+DiabetesP <- read_csv("File Destination/DiabetesP.csv")
 
 #Data Exploration 
 
